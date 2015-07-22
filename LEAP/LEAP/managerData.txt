@@ -1,0 +1,134 @@
+{
+    "my_info":
+    {
+        "name":"Ranjan C Dey",
+        "id":"989823432",
+        "access_token":"898AA0090A09D",
+        "leap_version":"1.0",
+        "theme":"default",
+        "tagFilterList":"all,iOS,Android,HTML5,Webservices"
+    },
+    "courses":[
+        {
+            "course_name": "Android Basics",
+            "course_duration":"Aug05-Aug10",
+            "seats_available":"15",
+            "course_status":"Active"
+        },
+        {
+            "course_name": "HTML5 Basics",
+            "course_duration":"Aug15-Aug20",
+            "seats_available":"25",
+            "course_status":"Active"
+        },
+        {
+            "course_name": "Webservices Basics",
+            "course_duration":"Aug25-Aug29",
+            "seats_available":"35",
+            "course_status":"Inactive"
+        }  
+    ],
+    "learnerList":
+    [
+        {
+            "name":"Kanika Rathi",
+            "tags":"iOS",
+            "image":"img1.png"
+        },
+        {
+            "name":"Ranjan Chandra Dey",
+            "tags":"iOS",
+            "image":"img2.png"
+        },
+        {
+            "name":"Brijesh Pavith",
+            "tags":"HTML5",
+            "image":"img3.png"
+        },
+        {
+            "name":"Gunjan Gupta",
+            "tags":"iOS",
+            "image":"img4.png"
+        },
+        {
+            "name":"Kanika Rathi",
+            "tags":"iOS,Android,HTML5",
+            "image":"img5.png"
+        },
+        {
+            "name":"Ranjan Chandra Dey",
+            "tags":"HTML5",
+            "image":"img6.png"
+        },
+        {
+            "name":"Brijesh Pavith",
+            "tags":"iOS",
+            "image":"img7.png"
+        },
+        {
+            "name":"Gunjan Gupta",
+            "tags":"iOS",
+            "image":"img8.png"
+        },
+        {
+            "name":"Kanika Rathi",
+            "tags":"HTML5",
+            "image":"img9.png"
+        },
+        {
+            "name":"Ranjan Chandra Dey",
+            "tags":"Webservices",
+            "image":"img10.png"
+        },
+        {
+            "name":"Brijesh Pavith",
+            "tags":"Webservices",
+            "image":"img11.png"
+        },
+        {
+            "name":"Gunjan Gupta",
+            "tags":"iOS",
+            "image":"img12.png"
+        },
+        {
+            "name":"Kanika Rathi",
+            "tags":"HTML5",
+            "image":"img13.png"
+        },
+        {
+            "name":"Ranjan Chandra Dey",
+            "tags":"Android",
+            "image":"img14.png"
+        },
+        {
+            "name":"Brijesh Pavith",
+            "tags":"HTML5",
+            "image":"img15.png"
+        },
+        {
+            "name":"Gunjan Gupta",
+            "tags":"iOS",
+            "image":"img16.png"
+        },
+        {
+            "name":"Kanika Rathi",
+            "tags":"HTML5",
+            "image":"img17.png"
+        },
+        {
+            "name":"Ranjan Chandra Dey",
+            "tags":"Android",
+            "image":"img18.png"
+        },
+        {
+            "name":"Brijesh Pavith",
+            "tags":"HTML5",
+            "image":"img19.png"
+        },
+        {
+            "name":"Gunjan Gupta",
+            "tags":"iOS",
+            "image":"img20.png"
+        }
+    ]
+}

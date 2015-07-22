@@ -1,0 +1,147 @@
+{  
+        "my_info":{
+        	"name":"Ranjan C Dey"
+        },
+        "my_courses":[
+	        {  
+	            "course_title":"Android Basics",
+	            "my_status":"In Progress",
+	            "my_progress":"60%",
+	    		"course_status":"Active",
+	    		"my_stars":"0",
+	            "course_duration":"Aug 09-Aug 12",
+	            "course_details":{
+	                "number_of_slides":"5",
+	                "course_sequence":"V-MCQ-V-MCQ-M(Video-MCQ-VIDEO-MCQ-Matching)",
+	                "course_items":[  
+	                    {  
+	                        "item_cat":"video",
+	                        "url":"youtube.com/leap"
+	                    },
+	                    {  
+	                        "item_cat":"mcq",
+	                        "questions":[  
+	                            {  
+	                                "question":"What is the current version name of Android?",
+	                                "answers":[  
+	                                    {  
+	                                        "name":"Lollipop",
+	                                        "is_correct":"true"
+	                                    },
+	                                    {  
+	                                        "name":"Ice Cream Sandwich",
+	                                        "is_correct":"false"
+	                                    }
+	                                ]
+	                            }
+	                        ]
+	                    },
+	                    {  
+	                        "item_cat":"matching",
+	                        "title":"Match the correct pairs",
+	                        "pairs":{  
+	                            "batch_1":[  
+	                                {  
+	                                    "title":"ABC",
+	                                    "match_id":"1"
+	                                },
+	                                {  
+	                                    "title":"ABC 1",
+	                                    "match_id":"2"
+	                                },
+	                                {  
+	                                    "title":"ABC 2",
+	                                    "match_id":"3"
+	                                }
+	                            ],
+	                            "batch_2":[  
+	                                {  
+	                                    "title":"Leap 1",
+	                                    "match_id":"1"
+	                                },
+	                                {  
+	                                    "title":"Leap 2",
+	                                    "match_id":"2"
+	                                },
+	                                {  
+	                                    "title":"Leap 3",
+	                                    "match_id":"3"
+	                                }
+	                            ]
+	                        }
+	                    }
+	                ]
+	            }
+	        },
+	        {  
+            "course_title":"iOS Basics",
+            "my_status":"In Progress",
+            "my_progress":"80%",
+    		"course_status":"Active",
+    		"my_stars":"0",
+            "course_duration":"Aug 09-Aug 12",
+            "course_details":{
+                "number_of_slides":"5",
+                "course_sequence":"V-MCQ-V-MCQ-M(Video-MCQ-VIDEO-MCQ-Matching)",
+                "course_items":[  
+                    {  
+                        "item_cat":"video",
+                        "url":"youtube.com/leap"
+                    },
+                    {  
+                        "item_cat":"mcq",
+                        "questions":[  
+                            {  
+                                "question":"What is the current version name of Android?",
+                                "answers":[  
+                                    {  
+                                        "name":"Lollipop",
+                                        "is_correct":"true"
+                                    },
+                                    {  
+                                        "name":"Ice Cream Sandwich",
+                                        "is_correct":"false"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {  
+                        "item_cat":"matching",
+                        "title":"Match the correct pairs",
+                        "pairs":{  
+                            "batch_1":[  
+                                {  
+                                    "title":"ABC",
+                                    "match_id":"1"
+                                },
+                                {  
+                                    "title":"ABC 1",
+                                    "match_id":"2"
+                                },
+                                {  
+                                    "title":"ABC 2",
+                                    "match_id":"3"
+                                }
+                            ],
+                            "batch_2":[  
+                                {  
+                                    "title":"Leap 1",
+                                    "match_id":"1"
+                                },
+                                {  
+                                    "title":"Leap 2",
+                                    "match_id":"2"
+                                },
+                                {  
+                                    "title":"Leap 3",
+                                    "match_id":"3"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
